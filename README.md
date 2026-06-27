@@ -72,24 +72,6 @@ Interactive Dashboard
 
 ---
 
-## Project Structure
-
-```
-SegmentIQ/
-│
-├── app.py
-├── model.pkl
-├── scaler.pkl
-├── requirements.txt
-├── data/
-├── notebooks/
-├── assets/
-│   └── dashboard.png
-└── README.md
-```
-
----
-
 ## Installation
 
 Clone the repository
