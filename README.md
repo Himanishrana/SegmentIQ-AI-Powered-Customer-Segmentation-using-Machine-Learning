@@ -127,7 +127,10 @@ streamlit run app.py
 
 ## Screenshots
 
-<img src="assets/dashboard.png" width="100%">
+<img width="1470" height="794" alt="Screenshot 2026-06-27 at 1 52 52 PM" src="https://github.com/user-attachments/assets/781abfb3-2f96-4183-8ce0-a897d1c3fe94" />
+
+<img width="1470" height="793" alt="Screenshot 2026-06-27 at 1 53 02 PM" src="https://github.com/user-attachments/assets/096aa54f-6602-47f9-81f3-2c7251af318f" />
+
 
 ---
 
@@ -137,7 +140,6 @@ streamlit run app.py
 
 Electrical & Computer Engineering Student
 
-Interested in AI, Machine Learning, LLMs, FPGA Accelerators and Data Science.
 
 ---
 
